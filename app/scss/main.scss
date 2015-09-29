@@ -19,3 +19,22 @@ body {
   color: $base-font-color;
   font-family: $base-font-family;
 }
+li{
+  list-style: none;
+}
+.list-div{
+
+  width: 315px;
+  margin-left: 10px;
+
+  border: 1px solid black;
+}
+.list-title{
+  text-align: center;
+  border-bottom: 1px solid grey;
+}
+.button{
+  height: 150px;
+  width: 250px;
+
+}
